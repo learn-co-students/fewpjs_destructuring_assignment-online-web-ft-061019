@@ -38,7 +38,6 @@ const {k_job, k_partner } = k_muppet
 
 
 
-// 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
@@ -60,3 +59,4 @@ const {k_job, k_partner } = k_muppet
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
 
 
+// 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
